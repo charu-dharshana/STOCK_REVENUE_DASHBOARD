@@ -1,4 +1,4 @@
-# STOCK_REVENUE_DASHBOARD
+
 # Historical Stock and Revenue Analysis Dashboard
 
 This project focuses on analyzing the historical stock prices and revenue data of prominent companies like Tesla and GameStop. Using Python as the backbone, this project extracts and visualizes the data in an interactive and visually appealing dashboard.
