@@ -1,4 +1,3 @@
-
 # Historical Stock and Revenue Analysis Dashboard
 
 This project focuses on analyzing the historical stock prices and revenue data of prominent companies like Tesla and GameStop. Using Python as the backbone, this project extracts and visualizes the data in an interactive and visually appealing dashboard.
@@ -27,10 +26,10 @@ This dashboard provides a dual visualization of:
 ## Dashboard Snapshots
 
 ### Tesla Stock and Revenue Data
-![Tesla Dashboard](TESLA.png)
+![Tesla Dashboard](Images/Tesla%20Dashboard.png)
 
 ### GameStop Stock and Revenue Data
-![GameStop Dashboard](GAMESTOP.png)
+![GameStop Dashboard](Images/GameStop%20Dashboard.png)
 
 ## Tools and Libraries
 
@@ -45,8 +44,8 @@ This dashboard provides a dual visualization of:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stock-revenue-dashboard.git
-   cd stock-revenue-dashboard
+   git clone https://github.com/charu-dharshana/stock_revenue_dashboard.git
+   cd stock_revenue_dashboard
    ```
 
 2. Install the required libraries:
